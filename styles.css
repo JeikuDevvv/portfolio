@@ -112,8 +112,18 @@ h3 {
   cursor: pointer;
 }
 
-.boxButton {
-  background-color: #66a182;
+.facebook_boxButton {
+  background-color: #1a76f2;
+  width: 250px;
+}
+
+.twitter_boxButton {
+  background-color: #1da1f2;
+  width: 250px;
+}
+
+.linkedin_boxButton {
+  background-color: #0072b1;
   width: 250px;
 }
 
